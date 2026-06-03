@@ -1,16 +1,42 @@
-## Hi there 👋
-
-<!--
-**Kshithesh-Sathri/Kshithesh-Sathri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🛠️ Tech Stack
+💬 Languages
+C++
+C/C++	JavaScript
+JavaScript	TypeScript
+TypeScript	Python
+Python	HTML
+HTML	CSS
+CSS	SQL
+SQL
+🌐 Frontend
+React
+React.js	TailwindCSS
+Tailwind	Three.js
+Three.js	Figma
+Figma	Blender
+Blender
+⚙️ Backend
+Node.js
+Node.js	Express.js
+Express.js	FastAPI
+FastAPI	OpenCV
+OpenCV
+🗄️ Databases & Cloud
+MongoDB
+MongoDB	MySQL
+MySQL	PostgreSQL
+PostgreSQL	Redis
+Redis	Supabase
+Supabase	prisma
+Prisma	Vercel
+Vercel	Vercel
+AWS
+🔧 Tools & DevOps
+Git
+Git	GitHub
+GitHub	Docker
+Docker	githubactions
+Github Actions	VS Code
+VS Code	Postman
+Postman	Vercel
+Linux
