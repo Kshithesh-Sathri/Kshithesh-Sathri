@@ -10,6 +10,17 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kshithesh-Sathri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+
+### 🐍 My GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kshithesh-Sathri/Kshithesh-Sathri/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kshithesh-Sathri/Kshithesh-Sathri/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub striking snake contribution grid" src="https://raw.githubusercontent.com/Kshithesh-Sathri/Kshithesh-Sathri/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 [![](https://komarev.com/ghpvc/?username=Kshithesh-Sathri&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
