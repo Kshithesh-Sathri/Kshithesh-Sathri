@@ -83,12 +83,13 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 My GitHub Contribution Snake
 
-<!-- To enable this animation, follow the setup note at the bottom of this file -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kshithesh-Sathri/Kshithesh-Sathri/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kshithesh-Sathri/Kshithesh-Sathri/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub striking snake contribution grid" src="https://raw.githubusercontent.com/Kshithesh-Sathri/Kshithesh-Sathri/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
